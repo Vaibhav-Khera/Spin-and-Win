@@ -1,0 +1,31 @@
+@media screen and (max-width: 450px) {
+    .page {
+        flex-direction: column !important;
+    }
+
+    .game_container,
+    .score_board {
+        flex: 0.5;
+    }
+
+    .title {
+        margin-top: 5% !important;
+        font-size: 30px !important;
+    }
+
+    .score_box {
+        font-size: 23px !important;
+    }
+
+    .spin_btn_text {
+        font-size: 24px !important;
+        padding: 0.7rem 0.7rem !important;
+    }
+
+    .creator {
+        font-size: 14px !important;
+    }
+
+    .score_box {}
+
+}
